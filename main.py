@@ -7,4 +7,3 @@ response_body = response.content
 
 print(response)
 print(response_body)
-
